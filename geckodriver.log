@@ -1,0 +1,175 @@
+1539029616846	geckodriver	INFO	geckodriver 0.21.0
+1539029616855	geckodriver	INFO	Listening on 127.0.0.1:49478
+1539029616894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/py/1m32thzs32b7w52nsckg_x280000gn/T/rust_mozprofile.3x37E0oACU1V"
+2018-10-09 01:13:40.497 plugin-container[50387:641458] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-09 01:13:40.844 plugin-container[50388:641481] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539029621186	Marionette	INFO	Listening on port 49483
+1539029621241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539029621308	Marionette	DEBUG	[4294967297] Frame script loaded
+1539029621309	Marionette	DEBUG	[4294967297] Frame script registered
+1539029621334	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-09 01:13:41.863 plugin-container[50389:641578] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539029623377	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539029626221	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+1539029628157	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539029628485	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029628527	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+1539029629174	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+1539029629175	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+JavaScript error: https://myquote.acorninsure.com/Taxi/Assumptions.aspx, line 38: SyntaxError: expected expression, got ','
+1539029629454	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539029633075	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539029633135	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539029633756	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539029633757	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+JavaScript error: https://myquote.acorninsure.com/Taxi/AboutYou.aspx, line 38: SyntaxError: expected expression, got ','
+1539029635061	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+1539029635759	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539029636041	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029637554	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029639338	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029639776	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029640074	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029640443	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029644265	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029644498	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029644733	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029645189	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029645416	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029645647	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029645919	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029646541	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029646829	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://myquote.acorninsure.com/Taxi/AboutYou.aspx, line 1: unreachable code after return statement
+1539029651996	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+1539029654288	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+1539029654289	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+JavaScript error: https://myquote.acorninsure.com/Taxi/VehicleCover.aspx, line 38: SyntaxError: expected expression, got ','
+1539029654526	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+1539029654749	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539029655073	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029655343	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029655722	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029655751	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+1539029656434	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+1539029656435	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+JavaScript error: https://myquote.acorninsure.com/Taxi/DriverDetails.aspx, line 38: SyntaxError: expected expression, got ','
+1539029657542	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539029657811	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539029658119	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029658359	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029658608	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029659688	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029659921	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029660190	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029660436	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029660668	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539029660899	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539029661195	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://myquote.acorninsure.com/Taxi/DriverDetails.aspx, line 1: unreachable code after return statement
+1539029661308	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539029662838	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539029662839	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539029663111	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539029663263	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539029664386	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539029664838	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539029664839	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539029664849	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539029664982	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/CoverStartDate.aspx
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1539267102562	geckodriver	INFO	geckodriver 0.21.0
+1539267102653	geckodriver	INFO	Listening on 127.0.0.1:51936
+1539267103622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/py/1m32thzs32b7w52nsckg_x280000gn/T/rust_mozprofile.Wz3B9CzUXJE5"
+2018-10-11 19:11:50.165 plugin-container[9416:110613] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x732b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 19:11:50.467 plugin-container[9417:110639] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 19:11:51.482 plugin-container[9418:110721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539267111885	Marionette	INFO	Listening on port 51952
+1539267112022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539267112090	Marionette	DEBUG	[4294967297] Frame script loaded
+1539267112256	Marionette	DEBUG	[4294967297] Frame script registered
+1539267112331	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539267113350	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539267117271	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+1539267122958	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539267123308	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267123349	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+1539267123929	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+1539267123930	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/ProductSelect.aspx?r=false&brand=Site
+JavaScript error: https://myquote.acorninsure.com/Taxi/Assumptions.aspx, line 38: SyntaxError: expected expression, got ','
+1539267124154	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539267132723	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539267132785	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539267133176	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+1539267133177	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/Assumptions.aspx
+JavaScript error: https://myquote.acorninsure.com/Taxi/AboutYou.aspx, line 38: SyntaxError: expected expression, got ','
+1539267135338	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+1539267136373	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539267136652	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267138458	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267140565	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267140994	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267141275	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267141640	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267145009	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267145244	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267145479	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267146035	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267146279	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267147007	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539267147595	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267148325	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267148583	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://myquote.acorninsure.com/Taxi/AboutYou.aspx, line 1: unreachable code after return statement
+1539267153791	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+1539267155980	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+1539267155981	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/AboutYou.aspx
+JavaScript error: https://myquote.acorninsure.com/Taxi/VehicleCover.aspx, line 38: SyntaxError: expected expression, got ','
+1539267156328	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+1539267156832	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+1539267157139	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267157442	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267157932	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267157995	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+1539267158588	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+1539267158588	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/VehicleCover.aspx
+JavaScript error: https://myquote.acorninsure.com/Taxi/DriverDetails.aspx, line 38: SyntaxError: expected expression, got ','
+1539267159993	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539267160259	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539267160560	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267160794	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267161041	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267162163	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267162405	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267163131	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267163503	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267164245	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267164977	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539267165270	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: https://cdn.mouseflow.com/projects/98429e95-36cb-4462-a2f8-5d42b66668f4.js, line 17: TypeError: Argument 1 of Document.elementFromPoint is not a finite floating-point value.
+JavaScript warning: https://myquote.acorninsure.com/Taxi/DriverDetails.aspx, line 1: unreachable code after return statement
+1539267165405	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539267168864	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539267168864	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/Taxi/DriverDetails.aspx
+1539267169396	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539267169628	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539267170898	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539267171554	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539267171555	Marionette	DEBUG	[4294967297] Received DOM event unload for https://myquote.acorninsure.com/CoverStartDate.aspx
+1539267172029	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://myquote.acorninsure.com/taxi/TaxiQuotation.aspx
+1539267172198	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://myquote.acorninsure.com/taxi/TaxiQuotation.aspx
+1539384368358	Marionette	INFO	Stopped listening on port 51952
