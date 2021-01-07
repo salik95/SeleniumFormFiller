@@ -3,7 +3,7 @@ beautifulsoup4==4.6.3
 certifi==2018.8.24
 chardet==3.0.4
 idna==2.7
-lxml==4.2.5
+lxml==4.6.2
 MechanicalSoup==0.11.0
 psutil==5.4.7
 pyxlsb==1.0.3
